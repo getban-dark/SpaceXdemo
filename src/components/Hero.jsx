@@ -13,7 +13,7 @@ const Hero = () => {
         muted
       />
       <div className="w-full h-[90%] flex flex-col justify-center items-center text-white px-4 text-center">
-        <h1>Ultimate goal of enabling</h1>
+        <h1>Ultimate Goal of enabling</h1>
         <h1 className="py-2">
           <span className="blue">People </span> to live on other planets
         </h1>
